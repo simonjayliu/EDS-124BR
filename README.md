@@ -7,3 +7,5 @@
 [Week 2 Repeat Animal Parade (Scratch Act 1) UCSD Internal Version](https://youtu.be/vW_y5pHBEvg)
 
 [Week 3 Nested Repeats: Write a Program (Mouse Octagon)](https://youtu.be/AXXIglaw-u0)
+
+[Week 3 Events: Write a Program (Monkey)](https://youtu.be/K1zx2qd4MXU)
