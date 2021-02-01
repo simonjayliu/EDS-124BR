@@ -9,3 +9,6 @@
 [Week 3 Nested Repeats: Write a Program (Mouse Octagon)](https://youtu.be/AXXIglaw-u0)
 
 [Week 3 Events: Write a Program (Monkey)](https://youtu.be/K1zx2qd4MXU)
+
+[Week 4 Variables: Write a Program (Shapes)](https://youtu.be/GJuyXONZgco)
+
