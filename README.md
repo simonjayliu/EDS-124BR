@@ -13,3 +13,5 @@
 [Week 4 Variables: Write a Program (Shapes)](https://youtu.be/GJuyXONZgco)
 
 [Week 5 Conditional Loops: Write a Program (Soccer Ball)](https://youtu.be/6ApE2mMYpq0)
+
+[Week 6 If-Else: Write a Program (Ball and Target Game)](https://youtu.be/4E02FDs94FM)
