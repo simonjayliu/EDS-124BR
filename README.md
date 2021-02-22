@@ -15,3 +15,5 @@
 [Week 5 Conditional Loops: Write a Program (Soccer Ball)](https://youtu.be/6ApE2mMYpq0)
 
 [Week 6 If-Else: Write a Program (Ball and Target Game)](https://youtu.be/4E02FDs94FM)
+
+[Week 7 Nested If Else: Write a Program (Penguin Swimming)](https://youtu.be/9SaA-eQ0n_8)
