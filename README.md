@@ -19,3 +19,5 @@
 [Week 7 Nested If Else: Write a Program (Penguin Swimming)](https://youtu.be/9SaA-eQ0n_8)
 
 [Week 8 Compound Conditionals: WriteProgram (Finding Treasure)](https://youtu.be/hltzA-xqvRY)
+
+[Week 9 Abstraction: Write a Program (Drawing a Picture)](https://youtu.be/FrvqjhOC0Zg)
