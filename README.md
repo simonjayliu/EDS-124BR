@@ -21,3 +21,5 @@
 [Week 8 Compound Conditionals: WriteProgram (Finding Treasure)](https://youtu.be/hltzA-xqvRY)
 
 [Week 9 Abstraction: Write a Program (Drawing a Picture)](https://youtu.be/FrvqjhOC0Zg)
+
+[Week 10 Lists: Write a Program (Naming Countries)](https://youtu.be/4Z6tII68W1E)
